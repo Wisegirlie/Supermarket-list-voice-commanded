@@ -11,16 +11,16 @@ The Supermarket List App allows users to easily create and manage their shopping
 - You can use voice command or manual input
 - Check and delete products by one-touch buttons
 - Duplicates check
-- Add one or more products in the same command.
+- Add one or more product in the same command.
 - Works in IOS and Android
 
 ## Languages, Databases, APIs and Frameworks used:
-React Native
-Expo
-Node.js
-Express
-MongoDB
-Google Speech-to-Text API
+• React Native
+• Expo
+• Node.js
+• Express
+• MongoDB
+• Google Speech-to-Text API
 
 ## Installation  
 This app runs in an Android Emulator in your desktop amd/or Expo Go in your mobile phone.
@@ -35,7 +35,7 @@ It won't run in a regular browser.
    - You have to get a GOOGLE API KEY to use Google Speech-to-text (https://cloud.google.com/speech-to-text#turn-speech-into-text-using-google-ai)
    - Add the following variables to connect with GOOGLE API in the .env file:
      - ***GOOGLE_API_KEY=your-google-speech-to-text-api-key***     
-   -Add the following variable to connect to the mongoDB on your desired location:
+   - Add the following variable to connect to the mongoDB on your desired location:
      - ***MONGO_URI=your-mongo-uri***
 4. Update the API URLs in the client to work locally:
    - Go to client/service/taskService.js and set the API_URL to ***"http://{Your Local IP Address}:3000"***
