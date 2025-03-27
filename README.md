@@ -21,6 +21,7 @@ The Supermarket List App allows users to easily create and manage their shopping
 • Express
 • MongoDB
 • Google Speech-to-Text API
+• Javascript
 
 ## Installation  
 This app runs in an Android Emulator in your desktop amd/or Expo Go in your mobile phone.
@@ -51,8 +52,8 @@ https://drive.google.com/file/d/1M2EWYSqiZJYV3xog30P0I3CLrIEBKAPS/view?usp=shari
 
 ## Screenshots
 
-![Image] (./screenshots/Screenshot-01.jpg)
-![Image] (./screenshots/Screenshot-02.jpg)
+![Image](./screenshots/Screenshot-01.jpg)
+![Image](./screenshots/Screenshot-02.jpg)
 
 ## How to use it
 
