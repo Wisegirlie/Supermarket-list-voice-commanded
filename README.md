@@ -14,8 +14,17 @@ The Supermarket List App allows users to easily create and manage their shopping
 - Add one or more products in the same command.
 - Works in IOS and Android
 
+## Languages, Databases, APIs and Frameworks used:
+React Native
+Expo
+Node.js
+Express
+MongoDB
+Google Speech-to-Text API
+
 ## Installation  
-This app runs in an Android Emulator, or Expo Go in your mobile phone.
+This app runs in an Android Emulator in your desktop amd/or Expo Go in your mobile phone.
+It won't run in a regular browser.
 
 1. Clone the repository  
 2. Install dependencies:
